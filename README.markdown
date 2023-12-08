@@ -17,6 +17,12 @@
     under the License.
 -->
 
+Nama Kelompok:
+1. Vina Arvianda (2210511017)
+2. Dinda Elrossa Birulangit (2210511031)
+3. Naura Muthia Alwanadi (2210511033)
+4. Nadya Nurasia Koimah (2210511034)
+
 <img src="https://allura.apache.org/theme/img/logo_black.png" alt="Apache Allura Logo" width="64" /> 
 
 # Apache Allura
